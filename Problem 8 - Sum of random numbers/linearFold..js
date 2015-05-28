@@ -53,4 +53,4 @@ iTechArt.training.utils.linearFold = function(array, callback, initialValue){
     }
 
     return lastComputedValue;
-}
+};
