@@ -16,4 +16,4 @@ iTechArt.training.utils.first = function(array, fn) {
         }
     }
     return null;
-}
+};

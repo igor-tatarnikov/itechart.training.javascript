@@ -21,4 +21,4 @@ iTechArt.training.utils.map = function(array, fn) {
         }
     }
     return resultArray;
-}
+};

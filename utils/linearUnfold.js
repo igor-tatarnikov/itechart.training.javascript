@@ -29,4 +29,4 @@ iTechArt.training.utils.linearUnfold = function(callback, initialValue){
     processIteration(callback.call(undefined, initialValue));
 
     return resultCollection;
-}
+};

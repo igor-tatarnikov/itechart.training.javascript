@@ -22,4 +22,4 @@ iTechArt.training.utils.filter = function(array, fn) {
         }
     }
     return resultArray;
-}
+};
